@@ -43,4 +43,21 @@ List the Tools Which is Used in Graphic Designning
 3. Export 
 
 **** TypoGraphy Principles 
-1. 
+1. TypoGraphy Theory
+2. choose Font Style, Font size, Font Type (Typefaces)
+
+EX : if we design Fashion Brand page then fonts will be different, if we design E-commerce then font will be different (its depends on the requirement)
+
+**** Three BackBones og FIGMA 
+1. AutoLayout : help to make responsive website for all screen
+2. Components: How to re- use design in different different pages
+3. Varients
+
+**** Design Principles
+**** Accessibility and WCAG 
+**** Color Psychology 
+**** Material Design System 
+1. Design System in UI/UX
+2. Guideline For Mobile Apps
+3. Integrate Components From Design For
+
