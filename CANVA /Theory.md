@@ -1,4 +1,5 @@
 1. What is Difference Between UI and UX 
+
 - UI : user Interface
 1. UI refers to the look and visual design of an app or website.
 includes: Colors, Buttons, Fonts, images, layouts, and many more things
@@ -24,8 +25,24 @@ Here we use Figma and Canva For UI/UX and graphics designning
 Figma : https://www.figma.com/login
 Canva : https://www.canva.com/en_in/login/?redirect=%2Fs%2Ftemplates%3Fquery%3D25th%2Bwedding%2Banniversary%2Ball%2Bphotos%2Btemplate
 
+3. What is Canva 
+- Canva is an online graphic design platform that helps people create visual content easily
 
-3. What is Figma : 
+use of Canva 
+1. Social media posts (Instagram, Facebook, LinkedIn)
+2. Posters, flyers, and banners
+3. Presentations and resumes
+4. Logos and business cards
+5. Videos and simple animations
+
+Key Features of Canva 
+1. Drag-and-drop editor
+2. thousands of ready made templates 
+3. free fonts, images, icons, and elements
+4. easy download, and share options are available in Free 
+5. team member can access 
+
+4. What is Figma : 
 - Figma is a web-based design and prototyping tool used to create 
 
 1. UI/UX designs for websites and mobile apps 
@@ -43,21 +60,6 @@ It allows multiple people to design together in real time.
 5. Supports plugins for icons, images, and automation
 6. Useful for developers to inspect design, colors, and spacing
 
-4. What is Canva 
-- Canva is an online graphic design platform that helps people create visual content easily
 
-use of Canva 
-1. Social media posts (Instagram, Facebook, LinkedIn)
-2. Posters, flyers, and banners
-3. Presentations and resumes
-4. Logos and business cards
-5. Videos and simple animations
-
-Key Features of Canva 
-1. Drag-and-drop editor
-2. thousands of ready made templates 
-3. free fonts, images, icons, and elements
-4. easy download, and share options are available in Free 
-5. team member can access 
 
     
