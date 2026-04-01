@@ -49,3 +49,129 @@ UI appearance
 - Typography
 - Proper spacing & styling
 
+
+--------- Figma Interface (Basic Tools) -------------
+Main Sections:
+1. Toolbar (Top) – Shape tools, text, move, etc.
+2. Layers Panel (Left) – Shows all elements
+3. Properties Panel (Right) – Design settings
+4. Canvas – Working area
+
+--------- Basic Tools in Figma -----------
+Important Tools:
+1. Frame Tool (F) → Create screens (mobile, web)
+2. Shape Tools (R, O) → Rectangle, circle, etc.
+3. Text Tool (T) → Add text
+4. Move Tool (V) → Move elements
+5. Pen Tool (P) → Custom shapes
+
+------------ Frames & Layouts ------------
+1. Frame = Screen or container
+ Used for:
+- Mobile UI
+- Website UI
+Predefined sizes available (iPhone, Desktop)
+
+-------------- Layers & Groups --------------
+1. Layers = Individual elements
+2. Group (Ctrl + G) = Combine elements
+Lock/Hide layers for better control
+
+--------------- Colors & Typography --------------
+1. Colors:
+- Fill (background color)
+- Stroke (border)
+- Gradient support
+
+2. Typography:
+- Font family
+- Size
+- Line height
+- Letter spacing
+
+--------------- Components (Important ⭐) ----------------
+- Reusable UI elements
+
+Example:
+1. Buttons
+2. Navbar
+3. Cards
+
+Benefits:
+- Change once → update everywhere
+
+------------- Auto Layout (Advanced ⭐) ---------------
+- Automatically arranges elements
+
+Features:
+- Padding
+- Spacing
+- Alignment
+
+Used for:
+
+- Responsive design
+- Dynamic UI
+
+-------------- Constraints (Responsive Design) -------------
+- Control how elements resize
+
+Types:
+1. Left / Right / Center
+2. Top / Bottom
+3. Scale
+
+--------------- Grids & Layout System ---------------
+- Helps align elements properly
+
+Types:
+1. Column grid (for web design)
+2. Grid layout (for spacing)
+
+----------- Prototyping (Interactive Design) ----------
+Features:
+1. Link screens
+2. Add transitions
+3. Add animations
+
+Example:
+- Button click → Next page open
+
+------------ Figma Plugins ---------------
+- Extend functionality
+
+Popular Plugins:
+1. Icons
+2. UI kits
+3. Image tools
+
+---------- Collaboration in Figma --------
+- Multiple users can work together
+- Comments feature available
+- Share via link
+
+---------------- Design Systems (Advanced) ------------
+- Collection of reusable components, styles
+Includes:
+1. Colors
+2. Typography
+3. Buttons
+4. Layouts
+
+Note: Used in big companies for consistency
+
+--------------- Exporting Designs ---------------
+Export formats:
+
+1. PNG
+2. JPG
+3. SVG
+4. PDF
+
+----------------- Developer Handoff -----------------
+Developers can inspect:
+
+1. CSS
+2. Spacing
+3. Fonts
+Note : Makes development easier
