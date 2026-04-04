@@ -34,6 +34,7 @@ part of Model and desing
 Mock Up use for feedback, review
 
 -------- What is the difference between MockUps and WireFrames -----------
+
 *** WireFrame : Wireframe is a basic layout of a webpage or app.
 1. Structure, Placement of elements, User flow, Functionality
 2. No colors, No images, No styling, Only boxes, lines, and text placeholders
