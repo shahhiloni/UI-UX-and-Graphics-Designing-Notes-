@@ -1,4 +1,5 @@
 List of Plugins we used in Figma 
+
 // Image & Content Plugins
 1. Unsplash : Unsplash plugin for Figma is a Figma plugin that allows designers to insert high-quality, free stock images directly into their designs. It saves time by providing instant access to a large library of professional photos without leaving Figma.
 
